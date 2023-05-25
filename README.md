@@ -45,7 +45,7 @@ Para ejecutar este flow, es necesario lo siguiente
 
 ### Instrucciones de operación
 
-Para observar el resutlado de este flow, sólo es necesario abrir la pestaña Debug.
+Para observar el resultado de este flow, sólo es necesario abrir la pestaña Debug.
 
 ## Resultados
 
