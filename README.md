@@ -55,7 +55,7 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 ## Evidencias
 
-- Aun por agregar
+
 
 # Créditos
 
